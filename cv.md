@@ -36,7 +36,7 @@ Developing a website for a charity and also managed social media.
 
 I am a second year student at the Wroclaw Business Academy
 
-Specialisation: _**management**_
+Specialisation: **_management_**
 
 #### COURSES
 
@@ -68,3 +68,15 @@ Specialisation: _**management**_
 - Polish - B2
 - Ukrainian - native
 - Russian - native
+
+> If you are interested, here is a link to my portfolio and contacts
+
+## CONTACTS
+
+[Portfolio](https://luchiweb.github.io/My-portfolio/)
+
+[LinkedIn](https://www.linkedin.com/in/svetlana-moiseienko-504535240/)
+
+[Telegram](https://t.me/Luchi_web)
+
+[Mail](mailto:svetlana.moiseienko.web@gmail.com)
