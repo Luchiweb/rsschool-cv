@@ -48,3 +48,23 @@ Specialisation: _**management**_
 
 - [Fundamentals of Figma](https://netology.ru/profile/program/figma-4/schedule)
 - [Building a website and an application: first steps in JavaScript](https://netology.ru/profile/program/jsfree-11/schedule)
+
+## STACK
+
+- React/Redux
+- Git
+- Java Script
+- HTML5
+- CSS3
+- Gulp
+- Figma
+- SASS
+- Tailwind
+- Bootstrap
+
+#### LANGUAGES
+
+- English - B1
+- Polish - B2
+- Ukrainian - native
+- Russian - native
