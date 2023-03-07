@@ -20,7 +20,7 @@ Developing corporate websites to train and develop new employees in a "pass the 
 
 #### FOTODOM (07.2022 - 08.2022)
 
-_Front-ent developer | Part time_
+_Front-ent developer Part time_
 
 Design and developing a small promotional website for the company using Bootstrap as a base.
 
